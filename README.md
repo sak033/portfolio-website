@@ -1,4 +1,4 @@
-# Portfolio Website - Pushpa & [Your Name]
+# Portfolio Website - Pushpa & Sakshi
 
 This is a collaborative portfolio website built by **Pushpa Kaithal** and **Sakshi Kuthe** to showcase our skills, projects, and blogs.
 
